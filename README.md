@@ -2,8 +2,6 @@
  __Note:__ this work and theory have been extended in the work / repository: [Application of Graph Neural Networks
 to Music Recommender Systems](https://github.com/mkhe93/Thesis-GNN-Rec-2025)
 
-## Project Structure
-
 - [Introduction](#️-introduction)
 - [Dataset](#-dataset)
 - [Evaluation](#-evaluation)
