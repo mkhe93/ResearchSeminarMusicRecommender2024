@@ -1,4 +1,4 @@
-# Research Seminar 2024
+# Non-Deep Learning Collaborative Filtering Techniques for Implicit Feedback Data in Music Recommender Systems
  __Note:__ this work and theory have been extended in the work / repository: [Application of Graph Neural Networks
 to Music Recommender Systems](https://github.com/mkhe93/Thesis-GNN-Rec-2025)
 
