@@ -12,8 +12,6 @@ to Music Recommender Systems](https://github.com/mkhe93/Thesis-GNN-Rec-2025)
     - [Setup with conda](#setup-with-conda-recommended)
     - [Setup with pip](#setup-with-pip)
 - [Export requirements.txt](#export-requirementstxt)
-  - [For Conda](#for-conda)
-  - [For Pip](#for-pip)
 
 #
 
@@ -118,11 +116,5 @@ Create virtual environment with predefined libraries:
 ### Export requirements.txt
 
 Open the terminal, activate the environment, and run: 
-
-#### For Conda
-
-        conda list -e > requirements.txt
-
-#### For Pip
 
         pip list --format=freeze > requirements.txt
