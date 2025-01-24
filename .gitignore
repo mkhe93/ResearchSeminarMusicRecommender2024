@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# DotEnv configuration
+.env
+.venv
+
+# Exclude sensitive data
+/data/interim/*.txt
+/data/processed/*.txt
+/data/raw/*.txt
+/notebooks/data_discovery.ipynb
+
+# Exclude test data
+/tmp
+
+# VS Code
+.vscode/
